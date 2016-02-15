@@ -3,7 +3,7 @@ Source code of some diagrams &amp; drawings.
 
 ### Rendering
 
-Drawings of draw.io folder can be imported into the website [Draw.io](https://draw.io)
+Drawings of draw.io folder can be imported into the website [Draw.io](https://www.draw.io)
 
 After working in them, you can export to XML: "File" > "Export as" > "XML (Plain)".
 
